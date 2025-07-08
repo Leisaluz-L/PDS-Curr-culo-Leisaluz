@@ -1,0 +1,50 @@
+﻿
+principal
+{    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.Curriculo {
+    text-align: left;
+}
+
+.Experiencia,
+.Contato,
+.Educacao {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 150px;
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+h2, h3 {
+    color:cadetblue;
+    margin-bottom: 10px;
+ 
+    text-align: center;
+}
+
+p {
+    color: #333;
+    line-height: 1.6;
+}
+
+.principal {
+    width: 80%;
+    margin: auto;
+    background-color: #f0f8ff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    
+}

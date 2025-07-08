@@ -1,0 +1,31 @@
+﻿body {
+    background: lightblue;
+    width: auto;
+    padding: 2px 0 0 20px;
+    text-align: center;
+    border: 1px solid;
+}
+
+
+
+.SobreMim {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+
+
+.mudanca {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-template-rows: repeat(1,1fr);
+    gap: 8px;
+}
+
+.nascimento {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-template-rows: repeat(1,1fr);
+    gap: 8px;
+}
